@@ -1,0 +1,13 @@
+body{
+    background-color: #116466;
+    font-family: "Nunito",sans-serif;
+}
+#home{
+    padding-left: 50%;
+}
+#about{
+    padding-left: 30px;
+}
+#project{
+    padding-left: 30px;
+}
